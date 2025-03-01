@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**jq4269/jq4269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+README pls
 
-Here are some ideas to get you started:
+This is a special message that gets put onto my GitHub profile. If you are reading this then that means you are viewing my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on nothing
+- 🌱 I’m currently learning nothing
+- 👯 I’m looking to collaborate on nothing
+- 🤔 I’m looking for help with nothing
+- 💬 Ask me about nothing
+- 📫 How to reach me: nothing
+- 😄 Pronouns: nothing
+- ⚡ Fun fact: nothing.
+
+See you later!
+
+
+
+I'm jq4269 btw
