@@ -1,20 +1,12 @@
 ## Hi there 👋
 
-README pls
+I'm a software engineering student, with experience in Java and Python.
 
-This is a special message that gets put onto my GitHub profile. If you are reading this then that means you are viewing my GitHub profile!
+I've also coded in C++, Go, HTML/CSS with Express/React/Node.js
 
-- 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning nothing
-- 👯 I’m looking to collaborate on nothing
-- 🤔 I’m looking for help with nothing
-- 💬 Ask me about nothing
-- 📫 How to reach me: nothing
-- 😄 Pronouns: nothing
-- ⚡ Fun fact: nothing.
+- 🔭 I’m currently working on a python project which I will hopefully release soon!
+- 🌱 I’m currently learning git collaboration
+- I want to learn about databases in the future
+
 
 See you later!
-
-
-
-I'm jq4269 btw
